@@ -6,7 +6,7 @@
 <h1>💻 Houssam Bounar</h1>
 
 <p>
-  <b>piciner at @ <a href="https://1337.ma" target="_blank">1337 Benguerir</a></b><br/>
+  <b>pisciner at @ <a href="https://1337.ma" target="_blank">1337 Benguerir</a></b><br/>
   <b>Part of the <a href="https://42.fr" target="_blank">42 Network</a></b><br/>
   <i>System programming, cyber security, and DevOps enthusiast.</i>
 </p>
